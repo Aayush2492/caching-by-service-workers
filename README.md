@@ -1,1 +1,1 @@
-### Understanding caching by serivce workers 
+### Understanding caching by service workers 
